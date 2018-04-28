@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "simplessm",
+            "projectName": "simplessm",
+            "workingDirectory": "c:\\Users\\Asus\\Desktop\\ssmPythonFlutter",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "simplessm",
+            "projectName": "simplessm",
+            "workingDirectory": "c:\\Users\\Asus\\Desktop\\ssmPythonFlutter",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
